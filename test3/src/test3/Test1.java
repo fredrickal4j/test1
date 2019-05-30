@@ -7,6 +7,8 @@ public static void main(String[] args) {
 
 	System.out.println("aasdfsadf");
 	System.out.println("branch22222nch");
+	System.out.println("master召唤");
 	System.out.println("bitch");
+
 }
 }
